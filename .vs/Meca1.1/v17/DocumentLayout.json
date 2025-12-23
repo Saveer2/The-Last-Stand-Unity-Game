@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\Unity\\p\\Meca1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\levelentrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\levelentrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|d:\\new folder\\unity\\p\\meca1.1\\assets\\script\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\enemyrespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemyrespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\entityanimationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\entityanimationevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|D:\\New folder\\Unity\\p\\Meca1.1\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58CCEA93-18CE-8084-44E0-1675298CBB1B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyRespawner.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\EnemyRespawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\EnemyRespawner.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\EnemyRespawner.cs",
+              "RelativeToolTip": "Assets\\Script\\EnemyRespawner.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T12:03:49.651Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Entity.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\Entity.cs",
+              "RelativeToolTip": "Assets\\Script\\Entity.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAcwKgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:16:54.605Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Player.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\Player.cs",
+              "RelativeToolTip": "Assets\\Script\\Player.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:12:52.016Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MusicManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Script\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:43:13.402Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MenuManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Script\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T17:15:59.542Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LevelEntrance.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\LevelEntrance.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LevelEntrance.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\LevelEntrance.cs",
+              "RelativeToolTip": "Assets\\Script\\LevelEntrance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:14:25.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:10:56.289Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entityanimationevents.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\Entityanimationevents.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Entityanimationevents.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\Entityanimationevents.cs",
+              "RelativeToolTip": "Assets\\Script\\Entityanimationevents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:13:12.089Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "enemy.cs",
+              "DocumentMoniker": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\enemy.cs",
+              "ToolTip": "D:\\New folder\\Unity\\p\\Meca1.1\\Assets\\Script\\enemy.cs",
+              "RelativeToolTip": "Assets\\Script\\enemy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:13:14.404Z",
+              "IsPinned": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
