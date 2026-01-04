@@ -28,7 +28,7 @@ Level-based progression
 
 Responsive controls and gameplay feel
 
---
+---
 
 ** Tech Stack
 
@@ -59,6 +59,3 @@ Assets may be placeholders or self-made
 Gameplay mechanics may change with improvements
 
 ---
-✔ Shows action gameplay logic
-✔ Demonstrates Unity + C# proficiency
-✔ Strong project for GitHub pinning
