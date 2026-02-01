@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="game_images/banner.png" alt="Main Menu" width="500">
+</p>
+
+
 # The Last Stand
 
 The Last Stand is a 2D Unity-based action game focused on survival gameplay, combat mechanics, and intense level design.
@@ -57,5 +62,12 @@ This is an indie learning project
 Assets may be placeholders or self-made
 
 Gameplay mechanics may change with improvements
+
+---
+
+## Game images
+![img1](game_images/img1.png)<br/>
+![img2](game_images/img2.png)<br/>
+![img3](game_images/img3.png)<br/>
 
 ---
